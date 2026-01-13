@@ -31,20 +31,6 @@ I'm **Divin**, a passionate **Full Stack Developer** with experience building en
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 🔹 [TikTok Clone](https://github.com/Divin-18/TikTok-Clone)
-> A responsive social media app with video feed, auth, and likes  
-> **Tech**: React, TypeScript, Tailwind CSS, Firebase (Auth + Firestore)  
-> **Live**: [divin-tiktok.vercel.app](https://divin-tiktok.vercel.app)
-
-### 🔹 [MarketOnline – E-commerce Platform](https://github.com/Divin-18/MarketOnline)
-> Full-stack online store with product catalog, cart, and admin dashboard  
-> **Tech**: React, Node.js, Express, MongoDB, JWT Auth  
-> **Features**: Real-time inventory, user roles, payment mock
-
-<br/>
-
 
 ## 📬 Let's Connect!
 
