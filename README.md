@@ -15,7 +15,7 @@ I'm **Divin**, a passionate **Full Stack Developer** with experience building en
 
 - 💼 Actively seeking **full-time opportunities** in **Full Stack, Backend, or Frontend Engineering**
 - 🌱 Currently deepening my expertise in **system design**, **API architecture**, and **cloud deployment**
-- 🛠️ Tech I use daily: **React, TypeScript, Node.js, Python, Express, MongoDB**
+- 🛠️ Tech I use daily: **React, TypeScript, Node.js, Express, MongoDB**
 
 <br/>
 
