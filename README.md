@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Divin**, a passionate **Full Stack Developer** with experience building end-to-end web applications using modern JavaScript/TypeScript ecosystems and robust backend technologies.
+I'm **Divin**, a passionate **Full Stack Developer** with experience building end-to-end web applications using modern JavaScript/TypeScript ecosystems and Scalable backend technologies.
 
 - 💼 Actively seeking **full-time opportunities** in **Full Stack, Backend, or Frontend Engineering**
 - 🌱 Currently deepening my expertise in **system design**, **API architecture**, and **cloud deployment**
